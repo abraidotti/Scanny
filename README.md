@@ -1,6 +1,6 @@
 # Scanny
 
-Scanny - a network discovery tool
+A network discovery tool
 
 Find other devices on the same local network using ARP requests.
 
